@@ -1,7 +1,7 @@
 # 🕒 Relógio Js
 <img src="https://github.com/IsaqueAmorim/time/blob/main/assets/screenshot/default.png"/>
 
-##➡️ **INTRODUÇÃO**
+## ➡️ **INTRODUÇÃO**
 
 >Este é um projeto de um Web App que tem funcionalidades ligadas a contagem e marcação de tempo.
 
