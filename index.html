@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Relógio</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <script src="assets/js/main.js" defer></script>
+</head>
+<body>
+    <div class="container">
+        <div class="buttons">
+            <button class="b1">Cronometro</button>
+            <button class="b2">Timer</button>
+            <button class="b3">Hora</button>
+        </div>
+        <div class="display">
+            <div class="cronometro">
+                <div class="tempo">
+                    00:00:00
+                </div>
+                <div class="buttons-display">
+                    <button onclick="start(0)" class="btn1">Start</button>
+                    <button status="stoped" onclick="Stop()" class="btn2">Stop</button>
+                    <button onclick="Clear()" class="btn3">Clear</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
