@@ -1,5 +1,5 @@
-# 🕒 Relógio Js
-<img src="https://github.com/IsaqueAmorim/time/blob/main/assets/screenshot/default.png"/>
+# 🕒 Cronometro Js
+![default](https://user-images.githubusercontent.com/33154125/153082547-3997b78e-661f-46d9-8f1f-e4c61945719a.png)
 
 ## ➡️ **INTRODUÇÃO**
 
@@ -12,3 +12,4 @@ Projeto feito para trabalhar as funçoes de Timing do JavaScript, lógica de pro
  - 📙 HTML
  - 📘 CSS
  - 📒 JavaScript
+
