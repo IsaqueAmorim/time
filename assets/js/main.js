@@ -1,6 +1,9 @@
 
+
+// CRONOMETRO
+
 let cron;
-let temp = 100;
+let temp = 1000;
 let hor = 00;
 let min = 00;
 let sec = 00;
